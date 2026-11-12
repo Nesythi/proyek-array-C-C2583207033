@@ -5,8 +5,8 @@
 | Keterangan | Identitas |
 |---|---|
 | Nama | Nesythi Mus'idah |
-| NIM | [C2583207033] |
-| Kelas | [PTI3A ] |
+| NIM | C2583207033 |
+| Kelas | PTI3A  |
 | Mata Kuliah | Algoritma dan Pemrograman lanjut |
 | Nama Proyek | Kantin |
 | Dosen Pengampu | Taofik Muhammad, M.Kom |
@@ -45,7 +45,7 @@ Array satu dimensi digunakan untuk menyimpan harga, stok, jumlah produk terjual,
 Contoh kode:
 
 ```c
-int harga[MAKS] = {15000, 12000, 5000, 18000, 4000};
+int harga[MAKS] = {15000, 10000, 5000, 18000, 4000};
 int stok[MAKS] = {20, 15, 30, 10, 25};
 int jumlahTerjual[MAKS] = {0, 0, 0, 0, 0};
 int pendapatanProduk[MAKS] = {0};
@@ -125,7 +125,7 @@ Pengujian dilakukan untuk memastikan setiap fitur program berjalan sesuai dengan
 
 **Hasil yang diharapkan:** Produk berhasil ditambahkan dan muncul pada daftar produk.
 
-**Screenshot:**
+**!<screnshot 1.jpeg> (screnshoot 2.jpeg)**
 
 ![Tambah Produk](screenshots/01-tambah-produk.png)
 
