@@ -125,7 +125,7 @@ Pengujian dilakukan untuk memastikan setiap fitur program berjalan sesuai dengan
 
 **Hasil yang diharapkan:** Produk berhasil ditambahkan dan muncul pada daftar produk.
 
-!<screnshoot 1.jpeg> (screnshoot 2.jpeg)
+![screnshoot 1.jpeg](screnshoot 2.jpeg)
 
 ### Pengujian 2: Transaksi Beberapa Produk
 
