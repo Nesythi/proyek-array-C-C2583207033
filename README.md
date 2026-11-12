@@ -124,6 +124,7 @@ Pengujian dilakukan untuk memastikan setiap fitur program berjalan sesuai dengan
 **Tindakan:** Menambahkan produk baru dengan memasukkan nama, harga, dan stok.
 
 **Hasil yang diharapkan:** Produk berhasil ditambahkan dan muncul pada daftar produk.
+**Screenshot:**
 
 ![screnshoot%201.jpeg](screnshoot%202.jpeg)
 
@@ -135,7 +136,7 @@ Pengujian dilakukan untuk memastikan setiap fitur program berjalan sesuai dengan
 
 **Screenshot:**
 
-![Transaksi](screenshots/02-transaksi.png)
+![screnshoot%202.jpeg](screnshoot%202.jpeg)
 
 ### Pengujian 3: Pembaruan Stok
 
@@ -145,7 +146,7 @@ Pengujian dilakukan untuk memastikan setiap fitur program berjalan sesuai dengan
 
 **Screenshot:**
 
-![Pembaruan Stok](screenshots/03-pembaruan-stok.png)
+![screnshoot%203.jpeg](screnshoot%203.jpeg)
 
 ### Pengujian 4: Stok Tidak Mencukupi
 
@@ -155,7 +156,7 @@ Pengujian dilakukan untuk memastikan setiap fitur program berjalan sesuai dengan
 
 **Screenshot:**
 
-![Stok Tidak Cukup](screenshots/04-stok-tidak-cukup.png)
+![screnshoot%204.jpeg](screnshoot%204.jpeg)
 
 ### Pengujian 5: Laporan Penjualan
 
@@ -165,7 +166,7 @@ Pengujian dilakukan untuk memastikan setiap fitur program berjalan sesuai dengan
 
 **Screenshot:**
 
-![Laporan Penjualan](screenshots/05-laporan-penjualan.png)
+![screnshoot%205.jpeg](screnshoot%205.jpeg)
 
 ### Pengujian 6: Pengurutan Produk
 
@@ -175,7 +176,7 @@ Pengujian dilakukan untuk memastikan setiap fitur program berjalan sesuai dengan
 
 **Screenshot:**
 
-![Pengurutan Produk](screenshots/06-pengurutan.png)
+![screnshoot%206.jpeg](screnshoot%206.jpeg)
 
 ### Pengujian 7: Pencarian dan Stok
 
@@ -185,7 +186,7 @@ Pengujian dilakukan untuk memastikan setiap fitur program berjalan sesuai dengan
 
 **Screenshot:**
 
-![Pencarian dan Stok](screenshots/07-pencarian-stok.png)
+![screnshoot%207.jpeg](screnshoot%207.jpeg)
 
 ## 7. Struktur Repository
 
