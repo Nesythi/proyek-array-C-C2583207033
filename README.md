@@ -117,76 +117,15 @@ kantin.exe
 
 ## 6. Dokumentasi Pengujian
 
-Pengujian dilakukan untuk memastikan setiap fitur program berjalan sesuai dengan ketentuan tugas.
-
-### Pengujian 1: Tambah Produk
-
-**Tindakan:** Menambahkan produk baru dengan memasukkan nama, harga, dan stok.
-
-**Hasil yang diharapkan:** Produk berhasil ditambahkan dan muncul pada daftar produk.
-**Screenshot:**
-
-![screnshoot%201.jpeg](screnshoot%202.jpeg)
-
-### Pengujian 2: Transaksi Beberapa Produk
-
-**Tindakan:** Melakukan pembelian beberapa jenis produk dalam satu transaksi.
-
-**Hasil yang diharapkan:** Subtotal setiap produk dan total pembayaran ditampilkan dengan benar.
-
-**Screenshot:**
-
-![screnshoot%202.jpeg](screnshoot%202.jpeg)
-
-### Pengujian 3: Pembaruan Stok
-
-**Tindakan:** Melakukan transaksi penjualan.
-
-**Hasil yang diharapkan:** Stok berkurang dan jumlah produk terjual bertambah.
-
-**Screenshot:**
-
-![screnshoot%203.jpeg](screnshoot%203.jpeg)
-
-### Pengujian 4: Stok Tidak Mencukupi
-
-**Tindakan:** Melakukan pembelian dengan jumlah melebihi stok yang tersedia.
-
-**Hasil yang diharapkan:** Transaksi ditolak dan stok tetap tidak berubah.
-
-**Screenshot:**
-
-![screnshoot%204.jpeg](screnshoot%204.jpeg)
-
-### Pengujian 5: Laporan Penjualan
-
-**Tindakan:** Membuka menu laporan penjualan setelah melakukan transaksi.
-
-**Hasil yang diharapkan:** Total unit terjual, total pendapatan, dan produk terlaris ditampilkan dengan benar.
-
-**Screenshot:**
-
-![screnshoot%205.jpeg](screnshoot%205.jpeg)
-
-### Pengujian 6: Pengurutan Produk
-
-**Tindakan:** Mengurutkan produk berdasarkan harga dan jumlah terjual.
-
-**Hasil yang diharapkan:** Produk ditampilkan sesuai urutan yang dipilih.
-
-**Screenshot:**
-
-![screnshoot%206.jpeg](screnshoot%206.jpeg)
-
-### Pengujian 7: Pencarian dan Stok
-
-**Tindakan:** Mencari produk berdasarkan nama dan memeriksa stok produk.
-
-**Hasil yang diharapkan:** Produk ditemukan sesuai pencarian dan program menampilkan peringatan untuk stok kurang dari 5.
-
-**Screenshot:**
-
-![screnshoot%207.jpeg](screnshoot%207.jpeg)
+| No. | Skenario | Input atau Tindakan | Hasil yang Diharapkan | Bukti Screenshot |
+| :---: | :--- | :--- | :--- | :---: |
+| 1 | **Tambah produk** | Memilih menu 2, memasukkan produk baru `Chiken Curry`, harga `25000`, stok `15` | Produk `Chiken Curry` berhasil disimpan dan muncul dalam daftar produk (Menu 1) | ![Screenshot1.png](Tampilan%20Program-UTS/Screenshot1.png) |
+| 2 | **Transaksi** | Memilih menu 4, membeli `Nasi Goreng` (3 pcs), `Es Teh Manis` (3 pcs) dan `Gorengan` (1 pcs) dalam 1 transaksi | Subtotal tiap barang dan total pembayaran terhitung dengan akurat pada struk | ![Screenshot2.1.png](Tampilan%20Program-UTS/Screenshot2.1.png) |
+| 3 | **Pembaruan stok** | Memeriksa data produk (Menu 1) setelah menyelesaikan transaksi pada skenario 2 | Stok `Nasi Goreng`, `Es Teh` & `Gorengan` berkurang, jumlah terjual bertambah | ![Screenshot3.png](Tampilan%20Program-UTS/Screenshot3.png) |
+| 4 | **Stok tidak cukup** | Memilih menu 4, membeli `Mie Ayam` sejumlah `6` unit (melebihi stok yang ada = 3) | Transaksi ditolak dengan pesan peringatan; jumlah stok barang tetap/tidak berubah | ![Screenshot4.png](Tampilan%20Program-UTS/Screenshot4.png) |
+| 5 | **Laporan** | Memilih menu 8 (Laporan Penjualan) | Total unit terjual, total pendapatan kantin, & produk terlaris dihitung dengan benar | ![Screenshot5.png](Tampilan%20Program-UTS/Screenshot5.png) |
+| 6 | **Pengurutan** | Memilih menu 7, urutkan berdasarkan harga termurah dan jumlah penjualan terbanyak  | Urutan posisi produk pada daftar berubah sesuai dengan metode pengurutan yang dipilih (Jumlah penjualan terbanyak) | ![Screenshot6.png](Tampilan%20Program-UTS/Screenshot6.png) |
+| 7 | **Pencarian dan stok** | Memilih menu 6 (Cari produk `Nasi Goreng`) dan menu 9 (Cek stok < 5) `Mie Ayam` | Menampilkan hasil pencarian produk `Nasi` dan `Mie Ayam` daftar peringatan barang bersisa < 5 | ![Screenshot7.1.png](Tampilan%20Program-UTS/Screenshot7.1.png) & ![Screenshot7.2.png](Tampilan%20Program-UTS/Screenshot7.2.png) |
 
 ## 7. Struktur Repository
 
