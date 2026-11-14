@@ -121,10 +121,10 @@ kantin.exe
 | :---: | :--- | :--- | :--- | :---: |
 | 1 | **Tambah produk** | Memilih menu 2, memasukkan produk baru `Pisang Mesir`, harga `15000`, stok `20` | Produk `Pisang Mesir` berhasil disimpan dan muncul dalam daftar produk (Menu 1) | ![screnshoot%201.jpeg](screnshoot%201.jpeg) |
 | 2 | **Transaksi** | Memilih menu 4, membeli `Kentang Goreng` (1 pcs), `Kwetiau Goreng` (1 pcs) `Air Mineral` (2 pcs) dan `Pisang Mesir` (1 pcs) dalam 1 transaksi | Subtotal tiap barang dan total pembayaran terhitung dengan akurat pada struk | ![screnshoot%202.jpeg](screnshoot%202.jpeg) |
-| 3 | **Pembaruan stok** | Memeriksa data produk (Menu 1) setelah menyelesaikan transaksi pada skenario 2 | Stok `Kentang Goreng`, `Kwetiau Goreng`, `Air Mineral` & `Pisang Mesir` berkurang, jumlah terjual bertambah | !![screnshoot%203.jpeg](screnshoot%203.jpeg) |
-| 4 | **Stok tidak cukup** | Memilih menu 4, membeli `Pisang Mesir` sejumlah `11` unit (melebihi stok yang ada = 9) | Transaksi ditolak dengan pesan peringatan; jumlah stok barang tetap/tidak berubah | ![Screenshot4.png]![screnshoot%204.jpeg](screnshoot%204.jpeg) |
+| 3 | **Pembaruan stok** | Memeriksa data produk (Menu 1) setelah menyelesaikan transaksi pada skenario 2 | Stok `Kentang Goreng`, `Kwetiau Goreng`, `Air Mineral` & `Pisang Mesir` berkurang, jumlah terjual bertambah | ![screnshoot%203.jpeg](screnshoot%203.jpeg) |
+| 4 | **Stok tidak cukup** | Memilih menu 4, membeli `Pisang Mesir` sejumlah `11` unit (melebihi stok yang ada = 9) | Transaksi ditolak dengan pesan peringatan; jumlah stok barang tetap/tidak berubah | ![screnshoot%204.jpeg](screnshoot%204.jpeg) |
 | 5 | **Laporan** | Memilih menu 8 (Laporan Penjualan) | Total unit terjual, total pendapatan kantin, & produk terlaris dihitung dengan benar | ![screnshoot%205.jpeg](screnshoot%205.jpeg) |
-| 6 | **Pengurutan** | Memilih menu 7, urutkan berdasarkan harga termurah dan jumlah penjualan terbanyak  | Urutan posisi produk pada daftar berubah sesuai dengan metode pengurutan yang dipilih (Jumlah penjualan terbanyak) | !![screnshoot%206.jpeg](screnshoot%206.jpeg) |
+| 6 | **Pengurutan** | Memilih menu 7, urutkan berdasarkan harga termurah dan jumlah penjualan terbanyak  | Urutan posisi produk pada daftar berubah sesuai dengan metode pengurutan yang dipilih (Jumlah penjualan terbanyak) | ![screnshoot%206.jpeg](screnshoot%206.jpeg) |
 | 7 | **Pencarian dan stok** | Memilih menu 6 (Cari produk `Pisang Mesir`) dan menu 9 (Cek stok < 5) | Menampilkan hasil pencarian produk `Pisang Mesir` dan daftar peringatan barang bersisa < 5 | ![screnshoot%207.jpeg](screnshoot%207.jpeg) ![screnshoot%208.jpeg](screnshoot%208.jpeg)|
 
 ## 7. Struktur Repository
