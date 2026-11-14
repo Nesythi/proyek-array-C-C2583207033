@@ -125,7 +125,7 @@ kantin.exe
 | 4 | **Stok tidak cukup** | Memilih menu 4, membeli `Pisang Mesir` sejumlah `11` unit (melebihi stok yang ada = 9) | Transaksi ditolak dengan pesan peringatan; jumlah stok barang tetap/tidak berubah | ![Screenshot4.png]![screnshoot%204.jpeg](screnshoot%204.jpeg) |
 | 5 | **Laporan** | Memilih menu 8 (Laporan Penjualan) | Total unit terjual, total pendapatan kantin, & produk terlaris dihitung dengan benar | ![screnshoot%205.jpeg](screnshoot%205.jpeg) |
 | 6 | **Pengurutan** | Memilih menu 7, urutkan berdasarkan harga termurah dan jumlah penjualan terbanyak  | Urutan posisi produk pada daftar berubah sesuai dengan metode pengurutan yang dipilih (Jumlah penjualan terbanyak) | !![screnshoot%206.jpeg](screnshoot%206.jpeg) |
-| 7 | **Pencarian dan stok** | Memilih menu 6 (Cari produk `Pisang Mesir`) dan menu 9 (Cek stok < 5) | Menampilkan hasil pencarian produk `Pisang Mesir` dan daftar peringatan barang bersisa < 5 | ![screnshoot%207.jpeg](screnshoot%207.jpeg) |
+| 7 | **Pencarian dan stok** | Memilih menu 6 (Cari produk `Pisang Mesir`) dan menu 9 (Cek stok < 5) | Menampilkan hasil pencarian produk `Pisang Mesir` dan daftar peringatan barang bersisa < 5 | ![screnshoot%207.jpeg](screnshoot%207.jpeg) ![screnshoot%208.jpeg](screnshoot%208.jpeg)|
 
 ## 7. Struktur Repository
 
@@ -157,8 +157,4 @@ Program ini dibuat untuk membantu pengelolaan data produk dan transaksi penjuala
 
 Selain itu, proyek ini menjadi sarana untuk memahami penerapan algoritma dan struktur data dalam menyelesaikan permasalahan sederhana di lingkungan sekitar.
 
----
 
-**Program Studi Pendidikan Teknologi Informasi**  
-**Universitas Muhammadiyah Tasikmalaya**  
-**Tahun Akademik 2026/2027**
