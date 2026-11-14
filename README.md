@@ -8,7 +8,7 @@
 | NIM | C2583207033 |
 | Kelas | PTI3A  |
 | Mata Kuliah | Algoritma dan Pemrograman lanjut |
-| Nama Proyek | Kantin |
+| Nama Proyek | Kantin Kampus |
 | Dosen Pengampu | Taofik Muhammad, M.Kom |
 
 ## 1. Deskripsi Proyek
